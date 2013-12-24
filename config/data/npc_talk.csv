@@ -1,0 +1,6 @@
+# NPC对话配置表
+# 对话编号, 对话名称, NPC的话, 我的话
+id,name,npcword,myword
+1,牛皮candy-1,Do you want to go back to the desert?,Yes
+2,马二姐,Thunderbird is the most evil creatrue in jiangnanyewai.,I will be careful.
+
